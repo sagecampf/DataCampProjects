@@ -1,2 +1,2 @@
 # DataCampProjects
-Compilation of projects completed including SQL and Python
+Compilation of projects completed using SQL and Python
